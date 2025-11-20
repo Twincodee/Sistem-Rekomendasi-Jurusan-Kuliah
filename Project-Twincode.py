@@ -361,4 +361,5 @@ def main():
             print(f"{Color.YELLOW}Pilihan tidak valid!{Color.END}")
 
 if __name__ == "__main__":
+
     main()
